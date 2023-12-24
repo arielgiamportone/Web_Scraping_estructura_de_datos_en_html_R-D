@@ -1,4 +1,4 @@
-# # Web Scraping con Beautifulsoup y Parse
+## Web Scraping con Beautifulsoup y Parse
 ## Comprensión de estructura de datos en páginas web (fines educativos para I+D+i)
 ### *Tecnologías que pueden ayudar a mejorar la calidad de vida*
 
@@ -39,10 +39,9 @@ Here is a summary of some advantages of using and learning this technology:
 
 * **Ease of setting up data extraction pipelines**: It highlights the current ease of establishing a data scraping process with minimal programming effort, allowing for the addressing of various practical needs, even in fields like **clinical microbiology**, where programmatic interfaces do not exist.
 
-
 # Conclusiones
 
 
 
-## - Agradecimientos
+## -Agradecimientos
 A **Andrés Mateo Piñol** y **Demetrio Esteban Alférez** por su motivación, aporte de datos y técnicas de análisis y el acompañamiento continuo en la formación.
