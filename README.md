@@ -1,4 +1,4 @@
-# # Web Scraping con Beautifulsoup y Parse
+# Web Scraping con Beautifulsoup y Parse
 ## Comprensión de estructura de datos en páginas web (fines educativos para I+D+i)
 ### *Tecnologías que pueden ayudar a mejorar la calidad de vida*
 
@@ -41,7 +41,7 @@ Here is a summary of some advantages of using and learning this technology:
 
 
 # Conclusiones
-
+El Web Scraping emerge como una herramienta valiosa y versátil para recolectar y estructurar datos, siendo particularmente útil en áreas donde la información disponible es heterogénea y no se encuentra en formatos fácilmente accesibles. Su aplicación ética y apropiada puede ofrecer un valor sustancial en la expansión del conocimiento y el análisis de datos en diversos campos, incluida la ciencia de datos y la investigación médica. Es de destacar que transformar datos no estructurados de la web en información organizada y analizable es imprescindible en la actualidad para hacer Investigación en culquier área del conocimiento. 
 
 
 ## - Agradecimientos
