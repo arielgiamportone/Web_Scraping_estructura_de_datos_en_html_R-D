@@ -39,10 +39,9 @@ Here is a summary of some advantages of using and learning this technology:
 
 * **Ease of setting up data extraction pipelines**: It highlights the current ease of establishing a data scraping process with minimal programming effort, allowing for the addressing of various practical needs, even in fields like **clinical microbiology**, where programmatic interfaces do not exist.
 
-
 # Conclusiones
 El Web Scraping emerge como una herramienta valiosa y versátil para recolectar y estructurar datos, siendo particularmente útil en áreas donde la información disponible es heterogénea y no se encuentra en formatos fácilmente accesibles. Su aplicación ética y apropiada puede ofrecer un valor sustancial en la expansión del conocimiento y el análisis de datos en diversos campos, incluida la ciencia de datos y la investigación médica. Es de destacar que transformar datos no estructurados de la web en información organizada y analizable es imprescindible en la actualidad para hacer Investigación en culquier área del conocimiento. 
 
 
-## - Agradecimientos
+## -Agradecimientos
 A **Andrés Mateo Piñol** y **Demetrio Esteban Alférez** por su motivación, aporte de datos y técnicas de análisis y el acompañamiento continuo en la formación.
